@@ -1,4 +1,4 @@
-# solutions-bwapp
+# bWAPP Solutions
 In progress rough solutions.  This is not a comprehensive solution list.  Updating whenever I have the time.
 
 Ref sheet
